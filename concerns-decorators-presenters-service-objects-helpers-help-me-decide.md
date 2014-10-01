@@ -1,8 +1,8 @@
 ## Guidelines
 
-Methods < 5 lines
-Classes < 100 lines
-One instance variable in view
+* Methods < 5 lines
+* Classes < 100 lines
+* One instance variable in view
 
 ## Concerns
 

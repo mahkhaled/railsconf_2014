@@ -40,7 +40,7 @@ To check, Is this end point used?
 analyze logs to know which controllers/actions are being hit.
 
 #### Facade as a service
-User Managers to hide complexity, as data could be retreived from different sources.
+Use Managers to hide complexity, as data could be retreived from different sources.
 
 #### Messaging is critical
 

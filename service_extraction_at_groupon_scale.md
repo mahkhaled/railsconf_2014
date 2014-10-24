@@ -49,7 +49,7 @@ Use Managers to hide complexity, as data could be retreived from different sourc
 #### Test at high level
 when you start writing service extraction, you will write unit tests.
 
-##### Communicate progress
+#### Communicate progress
 When you solve a problem, share.
 
 ### Hassan' Notes
